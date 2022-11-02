@@ -1,0 +1,16 @@
+
+.hero{
+  background-image: url("./images/cloud.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+nav{
+  margin-bottom: 40px
+}
+.logo{
+  margin-left:  40px
+}
+h1 p{
+  font-family: 'Ubuntu', sans-serif;
+}
